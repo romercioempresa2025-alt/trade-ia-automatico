@@ -1,0 +1,15 @@
+{
+  "name": "trade-ia-automatico-simulado",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Paper trading autom\u00e1tico BTC/USDT com motor executado no servidor",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
